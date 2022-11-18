@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  margin: 2rem;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+
+table {
+  margin: 10rem auto;
+  width: 100%;
+  border: 2px solid;
+}
